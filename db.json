@@ -21,5 +21,5 @@
     {"id":119, "task":" Analytic tools install.","state":0},
     {"id":120, "task":"TDD for  Analytic tools","state":0},
     {"id":121, "task":"Offline mode for Analytic tools","state":0}
-  ]
+  ],
 }
