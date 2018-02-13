@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {"id":101, "task":"Installing CocoaPods, third-party libraries and starting a projectI","state":1},
+    {"id":102, "task":"Installing Theme Manager","state":1},
+    {"id":103, "task":"Installing Custom Log Manager","state":0},
+    {"id":104, "task":"Design Pattern and MVC","state":0},
+    {"id":105, "task":"APIManager implementation","state":0},
+    {"id":106, "task":"Implement Enum and Custom Error Manager","state":0},
+    {"id":107, "task":"Implement Router","state":1},
+    {"id":108, "task":"Display the images found at the thumbnailUrl key for each node in the UITableView","state":0},
+    {"id":109, "task":"Display the image found at the url key in a detail view for each item in the UITableView","state":0},
+    {"id":110, "task":"Pull to refresh","state":1},
+    {"id":111, "task":"Test Driven Development for Pull to refresh","state":1},
+    {"id":112, "task":"Build Offline mode for pull to refresh","state":0},
+    {"id":113, "task":"Add necessary widgets to the app","state":0},
+    {"id":114, "task":"Test driven development for Widget","state":0},
+    {"id":115, "task":"Build offline mode for Widget","state":0},
+    {"id":116, "task":"Add Localization and Adaptive layouts support","state":0},
+    {"id":117, "task":"TDD for Localization and Adaptive layouts","state":0},
+    {"id":118, "task":"Build offline mode for Localization and Adaptive layouts","state":0},
+    {"id":119, "task":" Analytic tools install.","state":0},
+    {"id":120, "task":"TDD for  Analytic tools","state":0},
+    {"id":121, "task":"Offline mode for Analytic tools","state":0},
+  ]
+}
