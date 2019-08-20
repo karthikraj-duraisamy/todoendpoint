@@ -1,22 +1,22 @@
 {
 	"tasks": [{
 			"id": 101,
-			"task": "Installing CocoaPods, third-party libraries and starting a projectI",
+			"task": "Create a new Project",
 			"state": 1
 		},
 		{
 			"id": 102,
-			"task": "Installing Theme Manager",
+			"task": "Install Theme Manager",
 			"state": 1
 		},
 		{
 			"id": 103,
-			"task": "Installing Custom Log Manager",
+			"task": "Install Custom Log Manager",
 			"state": 0
 		},
 		{
 			"id": 104,
-			"task": "Design Pattern and MVC",
+			"task": "Decide the design patterns and Architectures",
 			"state": 0
 		},
 		{
@@ -31,22 +31,22 @@
 		},
 		{
 			"id": 107,
-			"task": "Implement Router",
+			"task": "Implement Routers",
 			"state": 1
 		},
 		{
 			"id": 108,
-			"task": "Display the images found at the thumbnailUrl key for each node in the UITableView",
+			"task": "Create a new Network API Manager Service",
 			"state": 0
 		},
 		{
 			"id": 109,
-			"task": "Display the image found at the url key in a detail view for each item in the UITableView",
+			"task": "Make a network call to pull the data",
 			"state": 0
 		},
 		{
 			"id": 110,
-			"task": "Pull to refresh",
+			"task": "Add Pull to refresh",
 			"state": 1
 		},
 		{
